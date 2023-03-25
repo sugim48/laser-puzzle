@@ -1,0 +1,10 @@
+[package]
+name = "laser-puzzle"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+itertools = "0.10.5"
+js-sys = "0.3.61"
+leptos = "0.2.3"
+url = "2.3.1"
